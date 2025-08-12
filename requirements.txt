@@ -1,0 +1,14 @@
+streamlit
+transformers>=4.34.0
+sentence-transformers
+faiss-cpu
+torch
+pdfplumber
+langchain
+tqdm
+pypdf
+python-multipart
+typing_extensions
+python-docx
+PyPDF2
+

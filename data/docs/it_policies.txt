@@ -1,0 +1,5 @@
+IT Policies
+
+Company computers and networks are provided for business use. Employees must not install unauthorized software or access inappropriate websites.
+
+Passwords should be strong and changed regularly. Any suspected security breaches should be reported immediately to the IT department.
