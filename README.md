@@ -48,5 +48,7 @@ Build a local, privacy-preserving chatbot that can answer questions based on you
 git clone https://github.com/<your-username>/local-rag-chatbot.git
 cd local-rag-chatbot
 
-
-
+1. Create virtual environment and activate
+2. Install  required libraries  
+3. Ceate the index (python -m scripts.index_docs --docs_dir data/docs --index_dir data/faiss_index --embed_model sentence-transformers/paraphrase-MiniLM-L3-v2)
+4. Run your app file (streamlit run app/streamlit_app.py)
